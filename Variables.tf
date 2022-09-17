@@ -1,6 +1,6 @@
 variable "aws_access_key" {
     type = string
-    default = "AKIAYL2OTF75W27BSORH"
+    default = "AKIAUYGQPAJ5HVXBANHS"
     sensitive = true
 
 }
@@ -8,7 +8,7 @@ variable "aws_access_key" {
 
 variable "aws_secret_key" {
     type = string
-    default = "qx4zR5rEp9LNHjoxvnuYzv/kIEOaflq/1GHU+n6+"
+    default = "+aqHt87OzOEA6ucDnwrRbI47xmCPno+QQhVYDZM9"
     sensitive = true
 
 }
